@@ -1,0 +1,16 @@
+h1 {
+    color: blueviolet;
+}
+
+.button {
+    background-color: coral;
+    text-align: center;
+    width: 200px;
+    margin-left: 560px;
+    margin-top: 260px;
+    border-radius: 25px;
+}
+
+.button:hover {
+    background-color: orange;
+}
